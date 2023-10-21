@@ -1,2 +1,2 @@
-# MCPAT
-official implenment for MCPAT
+# MCPATS
+official implenment for MCPATS
